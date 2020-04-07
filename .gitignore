@@ -2,6 +2,7 @@
 ###> symfony/framework-bundle ###
 /.env
 /.env.local
+/AppFixtures.php
 /public/bundles/
 /var/
 /vendor/
